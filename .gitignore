@@ -29,3 +29,6 @@ _site
 # Idea
 .idea/
 **/*.iml
+
+# NetBeans
+**/nb*.xml
