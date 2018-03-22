@@ -3,7 +3,6 @@ package temp;
 import java.io.ByteArrayInputStream;
 import java.io.UnsupportedEncodingException;
 
-import com.hp.hpl.jena.rdf.arp.JenaReader;
 import org.junit.Ignore;
 import org.junit.Test;
 
